@@ -1,0 +1,1 @@
+This is a clean up of the original QColorMatrix code not to use GDI+ and WIn32 API. It thus portable and be used in other platforms too.
