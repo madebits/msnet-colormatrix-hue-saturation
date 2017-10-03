@@ -21,7 +21,7 @@ namespace Img
     /// 
     /// This C# port from original C++ code is done by:
     /// (C) 2010, Vasian Cepa
-    /// http://madebits.com
+    /// http://
     /// This port fixes a bug in TransformVector and offers some new convenience methods.
     /// This class is not thread-safe.
     /// </summary>

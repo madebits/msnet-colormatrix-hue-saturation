@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("QM")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("madebits.com")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("QM")]
 [assembly: AssemblyCopyright("Copyright © Vasian Cepa 2010")]
 [assembly: AssemblyTrademark("")]
